@@ -1,7 +1,6 @@
 "Park Playgrounds per 10,000 Residents by City"			
 2013			
-"Park playgrounds do not include school playgrounds. If a city has more than one park agency, the playgrounds are combined."			
-			
+"Park playgrounds do not include school playgrounds. If a city has more than one park agency, the playgrounds are combined."						
 City		Park Playgrounds	"Playgrounds per 10,000 Residents"
 Madison	"240,323"	173	7.2
 Cincinnati	"296,550"	151	5.1

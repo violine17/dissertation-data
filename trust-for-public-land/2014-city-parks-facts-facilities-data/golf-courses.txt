@@ -1,7 +1,7 @@
 "Public Golf Courses per 100,000 Residents by City"				
 2013				
+Note:				
 City	Population	Public Golf Courses	"Public Golf Courses per 100,000 Residents"	
-High-Density Cities				
 Minneapolis	"392,880"	7	1.8	
 "Long Beach, California"	"467,892"	5	1.1	
 San Francisco	"825,863"	7	0.8	
