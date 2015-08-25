@@ -1,5 +1,6 @@
 "Tennis Courts per 10,000 Residents"			
 2013			
+Note:			
 City	Population	Tennis Courts	"Tennis Courts per 10,000 Residents"
 Norfolk	"245,782"	148	6.0
 Minneapolis	"392,880"	181	4.6
