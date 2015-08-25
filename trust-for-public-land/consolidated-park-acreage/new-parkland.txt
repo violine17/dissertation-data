@@ -1,0 +1,71 @@
+"New Parkland Acquired within City Limits in Past Year, by City Agency"				
+Agency	Total Parkland (acres)	New Parkland (acres)		
+Scottsdale Parks and Recreation Division	"28,817"	"7,417"		
+San Diego Park and Recreation Department	"41,555"	"1,225"		
+Nashville/Davidson Metropolitan Board of Parks and Recreation	"13,022"	627		
+Cleveland Metroparks (within Cleveland)	"1,574"	511		
+Texas Parks and Wildlife Department (within San Antonio)	"9,084"	464		
+"Raleigh Parks, Recreation and Cultural Resources Department"	"7,140"	307		
+San Antonio Parks and Recreation Department	"14,518"	281		
+Louisville Metro Parks	"12,583"	243		
+Portland Parks and Recreation	"11,416"	206		
+Chicago Park District	"8,341"	190		
+Corpus Christi Parks and Recreation Department	"1,847"	172		
+Oklahoma City Parks and Recreation Department	"26,137"	160		
+"Aurora Parks, Recreation and Open Space"	"10,276"	144		
+Travis County Parks (within Austin)	397	137		
+Austin Parks and Recreation Department	"19,171"	130		
+Virginia Beach Department of Parks and Recreation	"6,175"	110		
+New York City Department of Parks and Recreation	"29,462"	109		
+Columbus and Franklin County Metro Park District (within Columbus)	"2,958"	99		
+"Atlanta Department of Parks, Recreation and Cultural Affairs"	"4,358"	94		
+Tampa Sports Authority	390	70		
+Anchorage Parks and Recreation Department	"11,660"	60		
+"Omaha Department of Parks, Recreation and Public Property"	"10,391"	58		
+Fort Worth Parks and Community Services Department	"11,667"	54		
+Metro Regional Parks and Greenspaces (within Portland)	"2,324"	54		
+Indianapolis Department of Parks and Recreation	"10,953"	53		
+"Riverside Parks, Recreation and Community Services Department"	"2,912"	43		
+21st Century Parks	"3,684"	40		
+Columbus Recreation and Parks Department	"7,903"	40		
+Tennessee Department of Environment and Conservation	"2,947"	40		
+Cincinnati Park Board	"4,909"	35		
+"Arlington, Texas, Parks and Recreation Department"	"4,709"	26		
+City of Durham Parks and Recreation Department	"1,855"	25		
+Wisconsin Department of Natural Resources	307	25		
+Albuquerque Parks and Recreation Department	"21,575"	24		
+Henderson Parks and Recreation Department	"2,054"	18		
+Irvine Community Services Department	"8,163"	16		
+Seattle Parks and Recreation	"5,546"	16		
+Phoenix Parks and Recreation Department	"47,612"	15		
+Madison Parks Division	"4,557"	12		
+El Paso Parks and Recreation Department	"2,456"	10		
+"National Park Service (within Washington, D.C.)"	"6,833"	10		
+Sacramento Department of Parks and Recreation	"2,429"	10		
+Tryon Creek State Natural Area (within Portland)	464	10		
+Newark Department of Neighborhood and Recreational Services	89	9		
+Denver Parks and Recreation	"5,900"	8		
+"Mesa Parks, Recreation and Commercial Facilities Department"	"2,281"	8		
+Plano Parks and Recreation Department	"4,243"	8		
+St. Petersburg Parks & Recreation Department	"2,969"	8		
+Houston Parks and Recreation Department	"33,640"	7		
+Bakersfield Recreation and Parks Department	"8,211"	6		
+"Reno Parks, Recreation and Community Services Department"	"2,430"	6		
+Los Angeles Department of Recreation and Parks	"15,904"	5		
+"San Jose Department of Parks, Recreation and Neighborhood Services"	"3,422"	5		
+T.O. Fuller State Park	"1,138"	5		
+"New York State Office of Parks, Recreation and Historic Preservation (within New York City)"	669	4		
+"San Bernardino Parks, Recreation & Community Services"	570	4		
+"Long Beach Department of Parks, Recreation and Marine"	"3,121"	3		
+"Milwaukee County Department of Parks, Recreation and Culture (within Milwuakee city)"	"5,376"	3		
+Garland Parks and Recreation Department	"2,880"	2		
+"Kansas City, Mo. Parks and Recreation Department"	"12,135"	2		
+Minneapolis Park and Recreation Board	"5,055"	2		
+Petroglyph National Monument (within Albuquerque)	"5,164"	2		
+Pittsburgh Public Works	"3,086"	2		
+St. Paul Parks and Recreation Department	"3,400"	2		
+Boston Parks and Recreation Department	"1,935"	1		
+"Fresno Parks, After School, Recreation and Community Services Department"	"1,573"	1		
+Greensboro Parks and Recreation Department	"5,952"	1		
+"Santa Ana Parks, Recreation and Community Services"	515	1		
+TOTAL:	"558,789"	"13,495"		

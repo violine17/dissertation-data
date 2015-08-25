@@ -1,0 +1,121 @@
+Parkland Outside City Limits by Major City Agency		
+Agency	Agency Acreage within City Limits	Agency Acreage Outside City Limits
+Denver Parks and Recreation	"5,900"	"14,221"
+Albuquerque Parks and Recreation Department	"21,575"	"10,457"
+"Milwaukee County Department of Parks, Recreation and Culture (within Milwuakee city)"	"5,376"	"9,848"
+Columbus Recreation and Parks Department	"7,903"	"5,643"
+"Essex County Department of Parks, Recreation and Cultural Affairs (within Newark)"	758	"5,355"
+The Recreation and Park Commission for the Parish of East Baton Rouge	"1,477"	"5,210"
+Houston Parks and Recreation Department	"33,640"	"5,040"
+Anchorage Parks and Recreation Department	"11,660"	"5,000"
+Lubbock Parks and Recreation	"2,224"	"4,050"
+Boise Parks and Recreation	"2,775"	"3,978"
+Louisville Metro Parks	"12,583"	"3,600"
+"Colorado Springs Parks, Recreation and Cultural Services"	"9,180"	"3,556"
+San Diego Park and Recreation Department	"41,555"	"2,448"
+"Raleigh Parks, Recreation and Cultural Resources Department"	"7,140"	"2,370"
+"Orlando Families, Parks and Recreation Department"	"2,948"	"1,630"
+Minneapolis Park and Recreation Board	"5,055"	"1,203"
+Dallas Park and Recreation Department	"23,331"	"1,187"
+Madison Parks Division	"4,557"	"1,035"
+Spokane Parks and Recreation Department	"3,124"	976
+Baltimore City Department of Recreation and Parks	"4,862"	965
+San Francisco Recreation and Parks Department	"3,466"	868
+Lincoln Parks and Recreation Department	"6,304"	803
+Cincinnati Recreation Commission	"1,444"	633
+"Norfolk Department of Recreation, Parks and Open Space"	602	600
+Tulsa Park and Recreation Department	"5,995"	463
+San Antonio Parks and Recreation Department	"14,518"	452
+Portland Parks and Recreation	"11,416"	435
+Cleveland Department of Public Works	"1,494"	406
+St. Paul Parks and Recreation Department	"3,400"	401
+Cincinnati Park Board	"4,909"	326
+Virginia Beach Department of Parks and Recreation	"6,175"	315
+District of Columbia Department of Parks and Recreation	931	217
+"Atlanta Department of Parks, Recreation and Cultural Affairs"	"4,358"	209
+Detroit Recreation Department	"5,890"	200
+Fort Wayne Parks and Recreation Department	"2,400"	193
+Boston Parks and Recreation Department	"1,935"	181
+City of Durham Parks and Recreation Department	"1,855"	165
+Wichita Park and Recreation Department	"4,629"	160
+"Reno Parks, Recreation and Community Services Department"	"2,430"	143
+Sacramento Department of Parks and Recreation	"2,429"	119
+Winston-Salem Recreation and Parks	"3,450"	117
+Austin Parks and Recreation Department	"19,171"	108
+Philadelphia Parks and Recreation Department	"10,550"	100
+Los Angeles Department of Recreation and Parks	"15,904"	89
+Seattle Parks and Recreation	"5,546"	86
+"Kansas City, Mo. Parks and Recreation Department"	"12,135"	76
+"Arlington, Texas, Parks and Recreation Department"	"4,709"	60
+Nashville/Davidson Metropolitan Board of Parks and Recreation	"13,022"	59
+"Omaha Department of Parks, Recreation and Public Property"	"10,391"	52
+Greensboro Parks and Recreation Department	"5,952"	35
+Tampa Parks and Recreation Department	"3,497"	32
+Phoenix Parks and Recreation Department	"47,612"	30
+Chicago Park District	"8,341"	29
+Oakland Office of Parks and Recreation	"4,101"	26
+Garland Parks and Recreation Department	"2,880"	5
+"San Bernardino Parks, Recreation & Community Services"	570	5
+St. Petersburg Parks & Recreation Department	"2,969"	4
+Arlington County Department of Parks and Recreation	960	1
+Anaheim Community Services Department	458	0
+"Aurora Parks, Recreation and Open Space"	"10,276"	0
+Bakersfield Recreation and Parks Department	"4,960"	0
+Buffalo Division of Parks and Recreation	"1,842"	0
+Chandler Community Services Department	"1,528"	0
+Chesapeake Parks and Recreation Department	"2,555"	0
+Chula Vista Public Works Department - Parks Section	603	0
+Corpus Christi Parks and Recreation Department	"1,847"	0
+El Paso Parks and Recreation Department	"2,456"	0
+Fort Worth Parks and Community Services Department	"11,667"	0
+"Fresno Parks, After School, Recreation and Community Services Department"	"1,573"	0
+Gilbert Parks and Recreation	"1,469"	0
+Glendale Parks and Recreation Department	"2,188"	0
+Henderson Parks and Recreation Department	"2,054"	0
+Honolulu Department of Parks and Recreation (within Urban Honolulu)	"1,055"	0
+Indianapolis Department of Parks and Recreation	"10,953"	0
+Irvine Community Services Department	"8,163"	0
+Jacksonville Recreation and Community Services Department	"33,396"	0
+Jersey City Division of Parks and Forestry	189	0
+"Las Vegas Department of Parks, Recreation and Neighborhood Services"	"3,069"	0
+Lexington-Fayette Urban County Government Division of Parks and Recreation	"4,405"	0
+"Long Beach Department of Parks, Recreation and Marine"	"3,121"	0
+Mecklenburg County Park and Recreation	"20,472"	0
+Memphis Division of Parks and Neighborhoods	"4,802"	0
+"Mesa Parks, Recreation and Commercial Facilities Department"	"2,281"	0
+Miami Department of Parks and Recreation	"1,037"	0
+New Orleans Department of Parks and Parkways	"1,249"	0
+New Orleans Recreation Department	"1,076"	0
+New York City Department of Parks and Recreation	"29,462"	0
+North Las Vegas Parks and Recreation Department	859	0
+Oklahoma City Parks and Recreation Department	"26,137"	0
+Pittsburgh Public Works	"3,086"	0
+"Riverside Parks, Recreation and Community Services Department"	"2,912"	0
+"San Jose Department of Parks, Recreation and Neighborhood Services"	"3,422"	0
+"Santa Ana Parks, Recreation and Community Services"	515	0
+Scottsdale Parks and Recreation Division	"28,817"	0
+"St. Louis Department of Parks, Recreation and Forestry"	"3,252"	0
+Stockton Public Works Department	674	0
+Tucson Parks and Recreation Department	"3,319"	0
+Fremont Recreation Services Division	850	n.a.
+Hialeah Department of Recreation and Community Services	175	n.a.
+Hudson County Division of Parks (within Jersey City)	283	n.a.
+Irving Parks and Recreation	"1,814"	n.a.
+Laredo Parks and Leisure Services Department	"1,041"	n.a.
+Milwaukee Recreation	81	n.a.
+Plano Parks and Recreation Department	"4,243"	n.a.
+Toledo Department of Public Service	"2,206"	n.a.
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

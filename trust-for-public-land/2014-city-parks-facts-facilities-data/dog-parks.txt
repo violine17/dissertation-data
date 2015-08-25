@@ -1,0 +1,105 @@
+"Off-Leash Dog Parks per 100,000 Residents"			
+2013			
+City	Population	Dog Parks	"Dog Parks per 100,000 Residents"
+Portland	"603,106"	32	5.3
+Norfolk	"245,782"	11	4.5
+Las Vegas	"596,424"	25	4.2
+Henderson	"265,679"	11	4.1
+"Arlington, Virginia"	"221,045"	8	3.6
+Madison	"240,323"	8	3.3
+San Francisco	"825,863"	27	3.3
+Tampa	"347,645"	9	2.6
+St. Petersburg	"246,541"	6	2.4
+Albuquerque	"555,417"	12	2.2
+Seattle	"634,535"	14	2.2
+Anchorage	"298,610"	6	2.0
+Bakersfield	"358,597"	7	2.0
+Minneapolis	"392,880"	7	1.8
+New York	"8,336,697"	138	1.7
+Sacramento	"475,516"	8	1.7
+Chandler	"245,628"	4	1.6
+Colorado Springs	"431,834"	7	1.6
+Jersey City	"254,441"	4	1.6
+St. Louis	"318,172"	5	1.6
+Denver	"634,265"	9	1.4
+Austin	"842,592"	11	1.3
+Chesapeake	"228,417"	3	1.3
+Cincinnati	"296,550"	4	1.3
+Durham	"239,358"	3	1.3
+Glendale	"232,143"	3	1.3
+Lexington/Fayette	"305,489"	4	1.3
+Long Beach	"467,892"	6	1.3
+Pittsburgh	"306,211"	4	1.3
+Riverside	"313,673"	4	1.3
+Scottsdale	"223,514"	3	1.3
+Aurora	"339,030"	4	1.2
+Chula Vista	"252,422"	3	1.2
+San Diego	"1,338,348"	15	1.1
+"Washington, D.C."	"632,323"	7	1.1
+Fresno	"505,882"	5	1.0
+Stockton	"297,984"	3	1.0
+Tucson	"524,295"	5	1.0
+Baton Rouge	"230,058"	2	0.9
+Fremont	"221,986"	2	0.9
+Gilbert	"221,140"	2	0.9
+Irving	"225,427"	2	0.9
+Reno	"231,027"	2	0.9
+San Jose	"982,765"	9	0.9
+Lincoln	"265,404"	2	0.8
+Louisville/Jefferson	"750,828"	6	0.8
+Chicago	"2,714,856"	18	0.7
+Miami	"413,892"	3	0.7
+Oakland	"400,740"	3	0.7
+Raleigh	"423,179"	3	0.7
+St. Paul	"290,770"	2	0.7
+Charlotte/Mecklenburg	"969,031"	6	0.6
+Columbus	"809,798"	5	0.6
+Houston	"2,160,821"	13	0.6
+Atlanta	"443,775"	2	0.5
+Boston	"636,479"	3	0.5
+Cleveland	"390,928"	2	0.5
+Indianapolis	"834,852"	4	0.5
+Memphis	"655,155"	3	0.5
+Nashville/Davidson	"648,295"	3	0.5
+Oklahoma City	"599,199"	3	0.5
+Omaha	"421,570"	2	0.5
+San Bernardino	"213,295"	1	0.5
+Tulsa	"393,987"	2	0.5
+Wichita	"385,577"	2	0.5
+Buffalo	"259,384"	1	0.4
+El Paso	"672,538"	3	0.4
+Fort Wayne	"254,555"	1	0.4
+Greensboro	"277,080"	1	0.4
+Irvine	"229,985"	1	0.4
+Jacksonville	"836,507"	3	0.4
+Kansas City	"464,310"	2	0.4
+Mesa	"452,084"	2	0.4
+Plano	"272,068"	1	0.4
+San Antonio	"1,382,951"	5	0.4
+Virginia Beach	"447,021"	2	0.4
+Winston-Salem	"234,349"	1	0.4
+"Arlington, Texas"	"375,600"	1	0.3
+Baltimore	"621,342"	2	0.3
+Dallas	"1,241,162"	4	0.3
+Los Angeles	"3,857,799"	11	0.3
+New Orleans	"369,250"	1	0.3
+Philadelphia	"1,547,607"	5	0.3
+Phoenix	"1,488,750"	5	0.3
+Milwaukee	"598,916"	1	0.2
+Boise	"212,303"	3	0.1
+Fort Worth	"777,992"	1	0.1
+Anaheim	"343,248"	0	0.0
+Corpus Christi	"312,195"	0	0.0
+Detroit	"701,475"	0	0.0
+Garland	"233,564"	0	0.0
+Laredo	"244,731"	0	0.0
+Lubbock	"236,065"	0	0.0
+Newark	"277,727"	0	0.0
+North Las Vegas	"223,491"	0	0.0
+Orlando	"249,562"	0	0.0
+Santa Ana	"330,920"	0	0.0
+Hialeah	"231,941"	n.a.	
+Honolulu	"345,610"	n.a.	
+Toledo	"284,012"	n.a.	
+TOTAL		609	
+MEDIAN			0.7

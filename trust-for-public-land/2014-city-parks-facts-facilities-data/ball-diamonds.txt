@@ -1,0 +1,106 @@
+"Ball Diamonds per 10,000 Residents"			
+2013			
+Note: ball diamonds include both baseball and softball diamonds.			
+City	Population	Ball Diamonds	"Diamonds per 10,000"
+St. Paul	"290,770"	155	5.3
+Minneapolis	"392,880"	195	5.0
+Pittsburgh	"306,211"	128	4.2
+Cincinnati	"296,550"	119	4.0
+Cleveland	"390,928"	139	3.6
+St. Louis	"318,172"	113	3.6
+Norfolk	"245,782"	86	3.5
+Omaha	"421,570"	149	3.5
+Baltimore	"621,342"	204	3.3
+Kansas City	"464,310"	152	3.3
+Chesapeake	"228,417"	72	3.2
+Jacksonville	"836,507"	271	3.2
+Baton Rouge	"230,058"	72	3.1
+Detroit	"701,475"	219	3.1
+Virginia Beach	"447,021"	137	3.1
+Colorado Springs	"431,834"	121	2.8
+Philadelphia	"1,547,607"	413	2.7
+Tucson	"524,295"	144	2.7
+Chicago	"2,714,856"	719	2.6
+Tampa	"347,645"	91	2.6
+Plano	"272,068"	69	2.5
+Scottsdale	"223,514"	55	2.5
+Boise	"212,303"	50	2.4
+Buffalo	"259,384"	63	2.4
+Lexington/Fayette	"305,489"	72	2.4
+Boston	"636,479"	148	2.3
+Corpus Christi	"312,195"	73	2.3
+Denver	"634,265"	146	2.3
+San Diego	"1,338,348"	307	2.3
+Anchorage	"298,610"	65	2.2
+"Arlington, Virginia"	"221,045"	49	2.2
+Lubbock	"236,065"	51	2.2
+Henderson	"265,679"	56	2.1
+Reno	"231,027"	48	2.1
+Sacramento	"475,516"	100	2.1
+Greensboro	"277,080"	55	2.0
+Portland	"603,106"	123	2.0
+Irvine	"229,985"	43	1.9
+Atlanta	"443,775"	82	1.8
+Mesa	"452,084"	81	1.8
+San Bernardino	"213,295"	38	1.8
+Seattle	"634,535"	114	1.8
+Aurora	"339,030"	59	1.7
+Memphis	"655,155"	114	1.7
+St. Petersburg	"246,541"	42	1.7
+Riverside	"313,673"	51	1.6
+Stockton	"297,984"	48	1.6
+Winston-Salem	"234,349"	37	1.6
+Fort Wayne	"254,555"	38	1.5
+Garland	"233,564"	34	1.5
+Orlando	"249,562"	38	1.5
+"Washington, D.C."	"632,323"	96	1.5
+Lincoln	"265,404"	37	1.4
+Nashville/Davidson	"648,295"	89	1.4
+Newark	"277,727"	40	1.4
+Raleigh	"423,179"	59	1.4
+Anaheim	"343,248"	45	1.3
+"Arlington, Texas"	"375,600"	48	1.3
+Louisville/Jefferson	"750,828"	100	1.3
+Santa Ana	"330,920"	43	1.3
+Wichita	"385,577"	51	1.3
+Chula Vista	"252,422"	30	1.2
+Durham	"239,358"	29	1.2
+Hialeah	"231,941"	27	1.2
+Long Beach	"467,892"	55	1.2
+Albuquerque	"555,417"	62	1.1
+Chandler	"245,628"	28	1.1
+Columbus	"809,798"	90	1.1
+Gilbert	"221,140"	24	1.1
+Houston	"2,160,821"	231	1.1
+Irving	"225,427"	24	1.1
+Oakland	"400,740"	44	1.1
+Bakersfield	"358,597"	36	1.0
+Dallas	"1,241,162"	124	1.0
+El Paso	"672,538"	68	1.0
+Fresno	"505,882"	52	1.0
+Madison	"240,323"	25	1.0
+San Antonio	"1,382,951"	134	1.0
+Milwaukee	"598,916"	54	0.9
+New York	"8,336,697"	753	0.9
+San Francisco	"825,863"	71	0.9
+Tulsa	"393,987"	35	0.9
+Austin	"842,592"	71	0.8
+Charlotte/Mecklenburg	"969,031"	74	0.8
+Glendale	"232,143"	18	0.8
+Las Vegas	"596,424"	48	0.8
+Phoenix	"1,488,750"	117	0.8
+Indianapolis	"834,852"	56	0.7
+Los Angeles	"3,857,799"	268	0.7
+Fort Worth	"777,992"	50	0.6
+Fremont	"221,986"	14	0.6
+Miami	"413,892"	26	0.6
+North Las Vegas	"223,491"	13	0.6
+Oklahoma City	"599,199"	32	0.5
+San Jose	"982,765"	52	0.5
+Jersey City	"254,441"	10	0.4
+New Orleans	"369,250"	13	0.4
+Laredo	"244,731"	1	0.0
+Honolulu	"345,610"	n.a.	
+Toledo	"284,012"	n.a.	
+TOTAL		"9,515"	
+MEDIAN			1.5

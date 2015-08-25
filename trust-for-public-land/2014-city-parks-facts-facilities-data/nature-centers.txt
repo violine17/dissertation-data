@@ -1,0 +1,105 @@
+"Nature/Environmental Centers per 100,000 Residents"			
+2013			
+City	Population	Nature Centers	"Nature Centers per 100,000 Residents"
+Cincinnati	"296,550"	6	2.0
+San Bernardino	"213,295"	4	1.9
+"Arlington, Virginia"	"221,045"	3	1.4
+Irvine	"229,985"	3	1.3
+Long Beach	"467,892"	6	1.3
+Anaheim	"343,248"	4	1.2
+Portland	"603,106"	7	1.2
+Raleigh	"423,179"	5	1.2
+St. Petersburg	"246,541"	3	1.2
+Virginia Beach	"447,021"	5	1.1
+Anchorage	"298,610"	3	1.0
+Jacksonville	"836,507"	8	1.0
+Colorado Springs	"431,834"	4	0.9
+Fremont	"221,986"	2	0.9
+Durham	"239,358"	2	0.8
+Henderson	"265,679"	2	0.8
+Jersey City	"254,441"	2	0.8
+Nashville/Davidson	"648,295"	5	0.8
+"Washington, D.C."	"632,323"	5	0.8
+Greensboro	"277,080"	2	0.7
+Lexington/Fayette	"305,489"	2	0.7
+Aurora	"339,030"	2	0.6
+Seattle	"634,535"	4	0.6
+Albuquerque	"555,417"	3	0.5
+Boise	"212,303"	1	0.5
+Cleveland	"390,928"	2	0.5
+Columbus	"809,798"	4	0.5
+Dallas	"1,241,162"	6	0.5
+Houston	"2,160,821"	10	0.5
+Indianapolis	"834,852"	4	0.5
+Memphis	"655,155"	3	0.5
+Miami	"413,892"	2	0.5
+Milwaukee	"598,916"	3	0.5
+Minneapolis	"392,880"	2	0.5
+New Orleans	"369,250"	2	0.5
+Oklahoma City	"599,199"	3	0.5
+Tulsa	"393,987"	2	0.5
+Buffalo	"259,384"	1	0.4
+Chandler	"245,628"	1	0.4
+Charlotte/Mecklenburg	"969,031"	4	0.4
+Chesapeake	"228,417"	1	0.4
+Chula Vista	"252,422"	1	0.4
+Fort Wayne	"254,555"	1	0.4
+Irving	"225,427"	1	0.4
+Lincoln	"265,404"	1	0.4
+Madison	"240,323"	1	0.4
+Norfolk	"245,782"	1	0.4
+Orlando	"249,562"	1	0.4
+Plano	"272,068"	1	0.4
+Reno	"231,027"	1	0.4
+San Francisco	"825,863"	3	0.4
+Toledo	"284,012"	1	0.4
+"Arlington, Texas"	"375,600"	1	0.3
+Corpus Christi	"312,195"	1	0.3
+Las Vegas	"596,424"	2	0.3
+Los Angeles	"3,857,799"	11	0.3
+Louisville/Jefferson	"750,828"	2	0.3
+New York	"8,336,697"	21	0.3
+Philadelphia	"1,547,607"	4	0.3
+Pittsburgh	"306,211"	1	0.3
+Riverside	"313,673"	1	0.3
+San Diego	"1,338,348"	4	0.3
+San Jose	"982,765"	3	0.3
+Santa Ana	"330,920"	1	0.3
+St. Louis	"318,172"	1	0.3
+Wichita	"385,577"	1	0.3
+Atlanta	"443,775"	1	0.2
+Austin	"842,592"	2	0.2
+Baltimore	"621,342"	1	0.2
+Kansas City	"464,310"	1	0.2
+Oakland	"400,740"	1	0.2
+Omaha	"421,570"	1	0.2
+Tucson	"524,295"	1	0.2
+Chicago	"2,714,856"	3	0.1
+El Paso	"672,538"	1	0.1
+Fort Worth	"777,992"	1	0.1
+Phoenix	"1,488,750"	2	0.1
+San Antonio	"1,382,951"	1	0.1
+Bakersfield	"358,597"	0	0.0
+Baton Rouge	"230,058"	0	0.0
+Boston	"636,479"	0	0.0
+Denver	"634,265"	0	0.0
+Detroit	"701,475"	0	0.0
+Fresno	"505,882"	0	0.0
+Garland	"233,564"	0	0.0
+Gilbert	"221,140"	0	0.0
+Glendale	"232,143"	0	0.0
+Hialeah	"231,941"	0	0.0
+Laredo	"244,731"	0	0.0
+Lubbock	"236,065"	0	0.0
+Mesa	"452,084"	0	0.0
+Newark	"277,727"	0	0.0
+North Las Vegas	"223,491"	0	0.0
+Sacramento	"475,516"	0	0.0
+Scottsdale	"223,514"	0	0.0
+St. Paul	"290,770"	0	0.0
+Stockton	"297,984"	0	0.0
+Tampa	"347,645"	0	0.0
+Winston-Salem	"234,349"	0	0.0
+Honolulu	"345,610"	n.a.	
+TOTAL		226	
+MEDIAN			0.4

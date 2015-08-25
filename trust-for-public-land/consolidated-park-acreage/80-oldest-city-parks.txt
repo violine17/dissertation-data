@@ -1,0 +1,85 @@
+The 80 Oldest City Parks				
+"These are the oldest U.S. city parks within the 100 largest cities, ranked chronologically. In the case of parks which were enlarged later, the date refers to the year of initial creation or acquisition. In the case of parks whose names have changed, the modern name is given. "				
+				
+Rank	Park Name	City	Year Established	
+1	Boston Common	Boston	1634	
+2	Military Park	Newark	1667	
+3	Washington Park	Newark	1669	
+4	Rittenhouse/Washington/Logan/Franklin Squares	Philadelphia	1682	
+5	Battery Park	New York	1686	
+6	City Hall Park	New York	1691	
+7	Jackson Square	New Orleans	1721	
+8	San Pedro Springs Park	San Antonio	1729	
+9	Bowling Green	New York	1733	
+10	Old Town Plaza	Albuquerque	1760	
+11	El Pueblo	Los Angeles	1781	
+12	National Mall	"Washington, D.C."	1790	
+13	Settlers Landing	Cleveland	1796	
+14	Duane Park	New York	1797	
+15	Lafayette Square	"Washington, D.C."	1804	
+16	Gravois/Laclede/Mt. Pleasant Parks	St. Louis	1812	
+17	Jackson Place Park	St. Louis	1816	
+18	Brinkley Park/Colonial Park/Columbus Park/Court Square	Memphis	1819	
+19	Santa Fe Plaza	Santa Fe	1821	
+20	Washington Square	New York	1823	
+21	Patterson Park	Baltimore	1827	
+22	Union Square	New York	1832	
+23	Tompkins Square Park	New York	1833	
+24	Cathedral Square Park	Milwaukee	1835	
+24	Van Vorst Park	Jersey City	1835	
+26	Veteran's Park	New York	1836	
+27	Grant Park	Chicago	1837	
+27	Public Garden	Boston	1837	
+29	Lafayette Park	St. Louis	1838	
+30	Daniel Carter Beard Mall	New York	1841	
+31	Wayanda Park	New York	1844	
+32	Thomas Square	Honolulu	1845	
+33	Madison Square Park/Reservoir Square/Bryant Park	New York	1847	
+33	Portsmouth Square	San Francisco	1847	
+33	Fort Greene Park	New York	1847	
+36	Rice Park	St. Paul	1849	
+36	Sutter Land Grants Park	Sacramento	1849	
+38	Orton Park	Madison	1850	
+38	Grand Circus Park	Detroit	1850	
+38	Oakland Cemetery	Atlanta	1850	
+38	Pantoja Park	San Diego	1850	
+38	Union/Washington Squares	San Francisco	1850	
+43	Goodale Park	Columbus	1851	
+43	Hamilton Park	Jersey City	1851	
+45	Chapman Square	Portland	1852	
+46	Pioneer Park	San Bernardino	1853	
+46	Union Park	Chicago	1853	
+48	Artesian Park	Corpus Christi	1854	
+48	City Park	New Orleans	1854	
+50	East Fairmount Park	Philadelphia	1855	
+50	Washington Park	Cincinnati	1855	
+52	Hemming Plaza	Jacksonville	1857	
+52	Murphy Square	Minneapolis	1857	
+54	Central Park	New York	1858	
+54	San Jacinto Plaza	El Paso	1858	
+54	Queen Emma Park	Honolulu	1858	
+57	Druid Hill Park	Baltimore	1860	
+58	Old Fort Park	Fort Wayne	1863	
+59	Pershing Square	Los Angeles	1866	
+60	Allegheny Commons	Pittsburgh	1867	
+60	Buena Vista Park	San Francisco	1867	
+60	Cooper Park	Lincoln	1867	
+60	The Ellipse	"Washington, D.C."	1867	
+64	Balboa Park	San Diego	1868	
+64	DeFremery Park	Oakland	1868	
+64	Farragut/Franklin Squares	"Washington, D.C."	1868	
+64	Prospect Park	Brooklyn	1868	
+64	Saint James Park	San Jose	1868	
+69	Golden Gate Park	San Francisco	1870	
+70	Acadia Park	Colorado Springs	1871	
+70	Lenk's Park	Toledo	1871	
+70	Savage Park	Toledo	1871	
+73	Alum Rock	San Jose	1872	
+73	Belle Isle	Detroit	1872	
+73	Emancipation Park	Houston	1872	
+73	Hanscom Park	Omaha	1872	
+73	Riverside Park	New York	1872	
+78	Garfield Park	Indianapolis	1873	
+78	Hyde Park	Fort Worth	1873	
+80	Orton Park	Madison	1883	
+				

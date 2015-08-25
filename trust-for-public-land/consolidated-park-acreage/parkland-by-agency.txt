@@ -1,0 +1,459 @@
+Parkland by City and Agency					
+2013					
+"Parkland includes city, county, metro, state, and federal parkland within city limits. See Report 7 for a list of agencies managing the most parkland outside city limits."					
+City	Land Area (Acres)	Population	Agency	Parkland Within City Limits (acres)	
+"Albuquerque, New Mexico"	"120,147"	"555,417"			"27,373"
+			Albuquerque Parks and Recreation Department	"21,575"	
+			National Park Service (within Albuquerque)	"5,164"	
+			Bernalillo County Parks and Recreation Department (within Albuquerque)	634	
+					
+"Anaheim, California"	"31,895"	"343,248"			853
+			Anaheim Community Services Department	458	
+			Orange County Parks (within Anaheim)	395	
+					
+"Anchorage, Alaska"	"1,090,997"	"298,610"			"501,785"
+			Chugach State Park (within Anchorage)	"490,125"	
+			Anchorage Parks and Recreation Department	"11,660"	
+					
+"Arlington, Texas"	"61,364"	"375,600"			"4,709"
+			Arlington Parks and Recreation Department	"4,709"	
+					
+"Arlington, Virginia"	"16,623"	"221,045"			"2,042"
+			Arlington County Department of Parks and Recreation	960	
+			National Park Service (within Arlington)	947	
+			Northern Virginia Regional Park Authority (within Arlington)	135	
+					
+"Atlanta, Georgia"	"85,217"	"443,775"			"4,418"
+			"Atlanta Department of Parks, Recreation and Cultural Affairs"	"4,358"	
+			National Park Service (within Atlanta)	39	
+			Centennial Olympic Park	21	
+					
+"Aurora, Colorado"	"99,030"	"339,030"			"10,276"
+			"Aurora Parks, Recreation and Open Space"	"10,276"	
+					
+"Austin, Texas"	"190,653"	"842,592"			"27,398"
+			Austin Parks and Recreation Department	"19,171"	
+			"Austin Water Utility, Wildland Conservation Division"	"7,105"	
+			Texas Parks and Wildlife Department (within Austin)	725	
+			Travis County Parks (within Austin)	397	
+					
+"Bakersfield, California"	"90,985"	"358,597"			"5,335"
+			Bakersfield Recreation and Parks Department	"4,960"	
+			Kern County Parks and Recreation Department (within Bakersfield)	197	
+			North of the River Recreation and Park District (within Bakersfield)	178	
+					
+"Baltimore, Maryland"	"51,804"	"621,342"			"4,905"
+			Baltimore City Department of Recreation and Parks	"4,862"	
+			National Park Service (within Baltimore)	43	
+					
+"Baton Rouge, Louisiana"	"49,246"	"230,058"			"1,477"
+			E. Baton Rouge Parish Recreation and Park Commission (within Baton Rouge)	"1,477"	
+					
+"Boise, Idaho"	"50,793"	"212,303"			"2,775"
+			Boise Parks and Recreation	"2,775"	
+					
+"Boston, Massachusetts"	"30,897"	"636,479"			"4,916"
+			Massachusetts Department of Conservation and Recreation (within Boston)	"2,807"	
+			Boston Parks and Recreation Department	"1,935"	
+			Boston Conservation Commission	106	
+			National Park Service (within Boston)	35	
+			Massachusetts Port Authority (within Boston)	33	
+					
+"Buffalo, New York"	"25,846"	"259,384"			"1,903"
+			Buffalo Division of Parks and Recreation	"1,842"	
+			"Erie County Department of Parks, Recreation and Forestry (within Buffalo)"	60	
+			National Park Service (within Buffalo)	1	
+					
+"Chandler, Arizona"	"41,224"	"245,628"			"1,528"
+			Chandler Community Services Department	"1,528"	
+					
+"Charlotte/Mecklenburg, North Carolina"	"335,259"	"969,031"			"20,472"
+			Mecklenburg County Park and Recreation	"20,472"	
+					
+"Chesapeake, Virginia"	"218,112"	"228,417"			"56,359"
+			Great Dismal Swamp National Wildlife Refuge (within Chesapeake)	"49,246"	
+			Virginia Department of Game and Inland Fisheries (within Chesapeake)	"4,558"	
+			Chesapeake Parks and Recreation Department	"2,555"	
+					
+"Chicago, Illinois"	"145,686"	"2,714,856"			"12,485"
+			Chicago Park District	"8,341"	
+			Forest Preserve District of Cook County (within Chicago)	"3,089"	
+			Illinois Department of Natural Resources (within Chicago)	613	
+			Illinois International Port District (within Chicago)	442	
+					
+"Chula Vista, California"	"31,764"	"252,422"			907
+			Chula Vista Public Works Department	603	
+			San Diego Bay National Wildlife Refuge Complex (within Chula Vista)	180	
+			San Diego County Parks and Recreation (within Chula Vista)	124	
+					
+"Cincinnati, Ohio"	"49,883"	"296,550"			"6,821"
+			Cincinnati Park Board	"4,909"	
+			Cincinnati Recreation Commission	"1,444"	
+			Great Parks of Hamilton County (within Cincinnati)	465	
+			National Park Service (within Cincinnati)	3	
+					
+"Cleveland, Ohio"	"49,726"	"390,928"			"3,068"
+			Cleveland Metroparks (within Cleveland)	"1,574"	
+			Cleveland Department of Public Works	"1,494"	
+					
+"Colorado Springs, Colorado"	"124,506"	"431,834"			"11,157"
+			"Colorado Springs Parks, Recreation and Cultural Services"	"9,180"	
+			Colorado Parks and Wildlife (within Colorado Springs)	"1,407"	
+			El Paso County Parks (within Colorado Springs)	570	
+					
+"Columbus, Ohio"	"138,988"	"809,798"			"10,861"
+			Columbus Recreation and Parks Department	"7,903"	
+			Columbus and Franklin County Metro Park District (within Columbus)	"2,958"	
+					
+"Corpus Christi, Texas"	"102,791"	"312,195"			"2,147"
+			Corpus Christi Parks and Recreation Department	"1,847"	
+			Nueces County Coastal Parks (within Corpus Christi)	300	
+					
+"Dallas, Texas"	"217,932"	"1,241,162"			"23,331"
+			Dallas Park and Recreation Department	"23,331"	
+					
+"Denver, Colorado"	"97,920"	"634,265"			"5,900"
+			Denver Parks and Recreation Department	"5,900"	
+					
+"Detroit, Michigan"	"88,800"	"701,475"			"5,921"
+			Detroit Recreation Department	"5,890"	
+			William G. Milliken State Park and Harbor	31	
+					
+"Durham, North Carolina"	"68,717"	"239,358"			"2,555"
+			Durham Parks and Recreation Department	"1,855"	
+			Eno River State Park (within Durham)	700	
+					
+"El Paso, Texas"	"163,351"	"672,538"			"28,759"
+			Texas Parks and Wildlife Department (within El Paso)	"25,809"	
+			El Paso Parks and Recreation Department	"2,456"	
+			El Paso County Department of Parks and Recreation (within El Paso city)	439	
+			National Park Service (within El Paso)	55	
+					
+"Fort Wayne, Indiana"	"70,796"	"254,555"			"2,400"
+			Fort Wayne Parks and Recreation Department	"2,400"	
+					
+"Fort Worth, Texas"	"217,484"	"777,992"			"11,667"
+			Fort Worth Parks and Community Services Department	"11,667"	
+					
+"Fremont, California"	"49,574"	"221,986"			"21,656"
+			Don Edwards San Francisco Bay National Wildlife Refuge (within Fremont)	"14,839"	
+			East Bay Regional Park District (within Fremont)	"5,967"	
+			Fremont Recreation Services Division	850	
+					
+"Fresno, California"	"71,652"	"505,882"			"1,573"
+			"Fresno Parks, After School, Recreation and Community Services Department"	"1,573"	
+					
+"Garland, Texas"	"36,534"	"233,564"			"3,079"
+			Garland Parks and Recreation Department	"2,880"	
+			Dallas County Planning and Development Department (within Garland)	199	
+					
+"Gilbert, Arizona"	"43,496"	"221,140"			"1,469"
+			Gilbert Parks and Recreation Department	"1,469"	
+					
+"Glendale, Arizona"	"38,385"	"232,143"			"2,188"
+			Glendale Parks and Recreation Department	"2,188"	
+					
+"Greensboro, North Carolina"	"80,970"	"277,080"			"6,202"
+			Greensboro Parks and Recreation Department	"5,952"	
+			National Park Service (within Greensboro)	250	
+					
+"Henderson, Nevada"	"68,948"	"265,679"			"2,085"
+			Henderson Parks and Recreation Department	"2,054"	
+			Clark County Parks and Recreation Department (within Henderson)	31	
+					
+"Hialeah, Florida"	"13,728"	"231,941"			175
+			Hialeah Department of Recreation and Community Services	175	
+					
+"Honolulu, Hawaii"	"38,720"	"345,610"			"12,006"
+			Hawaii Division of Forestry and Wildlife (within Urban Honolulu)	"10,054"	
+			Honolulu Department of Parks and Recreation (within Urban Honolulu)	"1,055"	
+			Hawaii Division of State Parks (within Urban Honolulu)	897	
+					
+"Houston, Texas"	"383,737"	"2,160,821"			"49,487"
+			Houston Parks and Recreation Department	"33,640"	
+			Harris County Parks (within Houston)	"13,812"	
+			Fort Bend County Parks and Recreation Department (within Houston)	"2,023"	
+			Discovery Green Conservancy	12	
+			Texas Parks and Wildlife Department (within Houston)	10	
+					
+"Indianapolis, Indiana"	"231,317"	"834,852"			"11,203"
+			Indianapolis Department of Parks and Recreation	"10,953"	
+			White River State Park Development Commission	250	
+					
+"Irvine, California"	"42,308"	"229,985"			"8,508"
+			Irvine Community Services Department	"8,163"	
+			Orange County Parks (within Irvine)	345	
+					
+"Irving, Texas"	"42,891"	"225,427"			"1,869"
+			Irving Parks and Recreation	"1,814"	
+			Dallas County Planning and Development Department (within Irving)	55	
+					
+"Jacksonville, Florida"	"478,082"	"836,507"			"65,107"
+			Jacksonville Recreation and Community Services Department	"33,396"	
+			Florida Forest Service (within Jacksonville)	"9,781"	
+			National Park Service (within Jacksonville)	"8,400"	
+			Florida Park Service (within Jacksonville)	"8,195"	
+			St. Johns River Water Management District (within Jacksonville)	"5,335"	
+					
+"Jersey City, New Jersey"	"9,468"	"254,441"			"1,660"
+			New Jersey Division of Parks and Forestry (within Jersey City)	"1,188"	
+			Hudson County Division of Parks (within Jersey City)	283	
+			Jersey City Division of Parks and Forestry	189	
+					
+"Kansas City, Missouri"	"201,568"	"464,310"			"17,525"
+			"Kansas City, Missouri Parks and Recreation Department"	"12,135"	
+			Jackson County Parks and Recreation (within Kansas City)	"5,390"	
+					
+"Laredo, Texas"	"56,901"	"244,731"			"1,412"
+			Laredo Parks and Leisure Services Department	"1,041"	
+			Texas Parks and Wildlife Department (within Laredo)	371	
+					
+"Las Vegas, Nevada"	"86,921"	"596,424"			"3,072"
+			"Las Vegas Department of Parks, Recreation and Neighborhood Services"	"3,069"	
+			Nevada Division of State Parks (within Las Vegas)	3	
+					
+"Lexington/Fayette, Kentucky"	"181,536"	"305,489"			"4,424"
+			Lexington-Fayette Urban County Government Division of Parks and Recreation	"4,405"	
+			Kentucky Department of Parks (within Lexington/Fayette)	19	
+					
+"Lincoln, Nebraska"	"57,033"	"265,404"			"6,304"
+			Lincoln Parks and Recreation Department	"6,304"	
+					
+"Long Beach, California"	"32,188"	"467,892"			"3,121"
+			"Long Beach Department of Parks, Recreation and Marine"	"3,121"	
+					
+"Los Angeles, California"	"299,949"	"3,857,799"			"36,113"
+			Los Angeles Department of Recreation and Parks	"15,904"	
+			California Department of Parks and Recreation (within Los Angeles)	"10,465"	
+			Mountains Recreation and Conservation Authority (within Los Angeles)	"5,938"	
+			Angeles National Forest (within Los Angeles)	"2,641"	
+			Los Angeles County Department of Parks and Recreation (within Los Angeles city)	659	
+			Los Angeles Department of Water and Power (within Los Angeles city)	288	
+			Port of Los Angeles (within Los Angeles)	218	
+					
+"Louisville/Jefferson, Kentucky"	"243,466"	"750,828"			"16,865"
+			Louisville Metro Parks	"12,583"	
+			21st Century Parks	"3,684"	
+			E.P. Tom Sawyer State Park (within Louisville/Jefferson)	513	
+			Waterfront Development Corporation	85	
+					
+"Lubbock, Texas"	"78,343"	"236,065"			"2,224"
+			Lubbock Parks and Recreation	"2,224"	
+					
+"Madison, Wisconsin"	"49,145"	"240,323"			"5,447"
+			Madison Parks Division	"4,557"	
+			Dane County Parks Division (within Madison)	890	
+					
+"Memphis, Tennessee"	"201,635"	"655,155"			"9,390"
+			Memphis Division of Parks and Neighborhoods	"4,802"	
+			Shelby Farms Park Conservancy	"3,200"	
+			T.O. Fuller State Park	"1,138"	
+			Riverfront Development Commission	250	
+					
+"Mesa, Arizona"	"87,330"	"452,084"			"2,281"
+			"Mesa Parks, Recreation and Commercial Facilities Department"	"2,281"	
+					
+"Miami, Florida"	"22,957"	"413,892"			"1,180"
+			Miami Department of Parks and Recreation	"1,037"	
+			Miami-Dade County Park and Recreation Department (within Miami city)	88	
+			Bayfront Park Management Trust	55	
+					
+"Milwaukee, Wisconsin"	"61,518"	"598,916"			"6,280"
+			"Milwaukee County Department of Parks, Recreation and Culture (within Milwaukee city)"	"5,376"	
+			Milwaukee Department of Public Works	516	
+			Wisconsin Department of Natural Resources (within Milwaukee)	307	
+			Milwaukee Recreation	81	
+					
+"Minneapolis, Minnesota"	"34,543"	"392,880"			"5,055"
+			Minneapolis Park and Recreation Board	"5,055"	
+					
+"Nashville/Davidson, Tennessee"	"322,581"	"648,295"			"29,468"
+			Nashville/Davidson Metropolitan Board of Parks and Recreation	"13,022"	
+			U.S. Army Corps of Engineers (within Nashville/Davidson)	"11,599"	
+			Tennessee Department of Environment and Conservation (within Nashville/Davidson)	"2,947"	
+			Tennessee Wildlife Resource Agency (within Nashville/Davidson)	"1,900"	
+					
+"New Orleans, Louisiana"	"108,431"	"369,250"			"28,432"
+			Bayou Sauvage National Wildlife Refuge (within New Orleans)	"24,293"	
+			New Orleans City Park Improvement Association	"1,300"	
+			New Orleans Department of Parks and Parkways	"1,249"	
+			New Orleans Recreation Department	"1,076"	
+			Audubon Nature Institute	400	
+			Louisiana Office of State Parks (within New Orleans)	105	
+			Municipal Yacht Harbor	9	
+					
+"New York, New York"	"193,692"	"8,336,697"			"38,606"
+			New York City Department of Parks and Recreation	"29,462"	
+			National Park Service (within New York City)	"7,175"	
+			New York State Department of Environmental Conservation (within New York City)	"1,300"	
+			"New York State Office of Parks, Recreation and Historic Preservation (within New York City)"	669	
+					
+"Newark, New Jersey"	"15,480"	"277,727"			847
+			"Essex County Department of Parks, Recreation and Cultural Affairs (within Newark)"	758	
+			Newark Department of Neighborhood and Recreational Services	89	
+					
+"Norfolk, Virginia"	"34,637"	"245,782"			602
+			"Norfolk Department of Recreation, Parks and Open Space"	602	
+					
+"North Las Vegas, Nevada"	"64,861"	"223,491"			859
+			North Las Vegas Parks and Recreation Department	859	
+					
+"Oakland, California"	"35,703"	"400,740"			"6,063"
+			Oakland Office of Parks and Recreation	"4,101"	
+			East Bay Regional Park District (within Oakland)	"1,701"	
+			Port of Oakland	261	
+					
+"Oklahoma City, Oklahoma"	"388,103"	"599,199"			"26,154"
+			Oklahoma City Parks and Recreation Department	"26,137"	
+			Myriad Botanical Gardens	17	
+					
+"Omaha, Nebraska"	"81,337"	"421,570"			"10,391"
+			"Omaha Department of Parks, Recreation and Public Property"	"10,391"	
+					
+"Orlando, Florida"	"65,533"	"249,562"			"2,972"
+			"Orlando Families, Parks and Recreation Department"	"2,948"	
+			Orange County Parks and Recreation Division (within Orlando)	24	
+					
+"Philadelphia, Pennsylvania"	"85,825"	"1,547,607"			"10,929"
+			Philadelphia Parks and Recreation Department	"10,550"	
+			John Heinz National Wildlife Refuge (within Philadelphia)	300	
+			National Park Service (withn Philadelphia)	55	
+			University of Pennsylvania Penn Park	24	
+					
+"Phoenix, Arizona"	"330,690"	"1,488,750"			"49,254"
+			Phoenix Parks and Recreation Department	"47,612"	
+			Maricopa County Parks and Recreation Department (within Phoenix)	"1,642"	
+					
+"Pittsburgh, Pennsylvania"	"35,435"	"306,211"			"3,122"
+			Pittsburgh Public Works	"3,086"	
+			Point State Park	36	
+					
+"Plano, Texas"	"45,812"	"272,068"			"4,243"
+			Plano Parks and Recreation Department	"4,243"	
+					
+"Portland, Oregon"	"85,393"	"603,106"			"14,204"
+			Portland Parks and Recreation	"11,416"	
+			Metro Regional Parks and Greenspaces (within Portland)	"2,324"	
+			Tryon Creek State Natural Area (within Portland)	464	
+					
+"Raleigh, North Carolina"	"91,458"	"423,179"			"12,879"
+			"Raleigh Parks, Recreation and Cultural Resources Department"	"7,140"	
+			William B. Umstead State Park (within Raleigh)	"5,579"	
+			"Wake County Parks, Recreation and Open Space (within Raleigh)"	160	
+					
+"Reno, Nevada"	"65,926"	"231,027"			"2,990"
+			"Reno Parks, Recreation and Community Services Department"	"2,430"	
+			Washoe County Regional Parks and Open Space (within Reno)	560	
+					
+"Riverside, California"	"51,930"	"313,673"			"3,687"
+			"Riverside Parks, Recreation and Community Services Department"	"2,912"	
+			Riverside County Regional Park and Open-Space District (within Riverside city)	527	
+			California Department of Parks and Recreation (within Riverside)	248	
+					
+					
+"Sacramento, California"	"62,666"	"475,516"			"5,080"
+			Sacramento Department of Parks and Recreation	"2,429"	
+			Sacramento County Department of Regional Parks (within Sacramento city)	"1,746"	
+			"Sacramento Department of Convention, Culture and Leisure"	604	
+			California Department of Parks and Recreation (within Sacramento)	301	
+					
+"San Antonio, Texas"	"294,997"	"1,382,951"			"24,662"
+			San Antonio Parks and Recreation Department	"14,518"	
+			Texas Parks and Wildlife Department (within San Antonio)	"9,084"	
+			National Park Service (within San Antonio)	835	
+			Bexar County Facilities and Parks Department (within San Antonio)	225	
+					
+"San Bernardino, California"	"37,889"	"213,295"			"3,370"
+			San Bernardino National Forest (within San Bernardino city)	"2,800"	
+			"San Bernardino Parks, Recreation & Community Services"	570	
+					
+"San Diego, California"	"208,120"	"1,338,348"			"48,468"
+			San Diego Park and Recreation Department	"41,555"	
+			San Diego County Parks and Recreation (within San Diego city)	"4,094"	
+			California Department of Parks and Recreation (within San Diego)	"1,508"	
+			San Diego Bay National Wildlife Refuge Complex (within San Diego)	900	
+			Port of San Diego	249	
+			National Park Service (within San Diego)	162	
+					
+"San Francisco, California"	"29,999"	"825,863"			"5,685"
+			San Francisco Recreation and Parks Department	"3,466"	
+			Presidio Trust	"1,104"	
+			National Park Service (within San Francisco)	863	
+			California Department of Parks and Recreation (within San Francisco)	252	
+					
+"San Jose, California"	"112,977"	"982,765"			"16,463"
+			Don Edwards San Francisco Bay National Wildlife Refuge (within San Jose)	"6,800"	
+			Santa Clara County Parks and Recreation (within San Jose)	"3,910"	
+			"San Jose Department of Parks, Recreation and Neighborhood Services"	"3,422"	
+			Santa Clara County Open Space Authority (within San Jose)	"2,331"	
+					
+"Santa Ana, California"	"17,453"	"330,920"			515
+			"Santa Ana Parks, Recreation and Community Services"	515	
+					
+"Scottsdale, Arizona"	"117,709"	"223,514"			"28,817"
+			Scottsdale Parks and Recreation Division	"28,817"	
+					
+"Seattle, Washington"	"53,723"	"634,535"			"5,546"
+			Seattle Parks and Recreation	"5,546"	
+					
+"St. Louis, Missouri"	"39,622"	"318,172"			"3,684"
+			"St. Louis Department of Parks, Recreation and Forestry"	"3,252"	
+			Tower Grove Park Commission	289	
+			National Park Service (within St. Louis)	91	
+			The Great Rivers Greenway District (within St. Louis)	52	
+					
+"St. Paul, Minnesota"	"33,266"	"290,770"			"4,965"
+			Saint Paul Parks and Recreation Department	"3,400"	
+			Ramsey County Parks and Recreation Department (within St. Paul)	"1,232"	
+			 Minnesota DNR Division of Parks and Recreation (within St. Paul)	333	
+					
+"St. Petersburg, Florida"	"39,515"	"246,541"			"6,159"
+			Pinellas County Parks & Conservation Resources (within St. Petersburg)	"3,190"	
+			St. Petersburg Parks & Recreation Department	"2,969"	
+					
+"Stockton, California"	"39,469"	"297,984"			674
+			Stockton Public Works Department	674	
+					
+"Tampa, Florida"	"72,582"	"347,645"			"4,709"
+			Tampa Parks and Recreation Department	"3,497"	
+			Hillsborough County Parks (within Tampa)	822	
+			Tampa Sports Authority	390	
+					
+"Toledo, Ohio"	"51,643"	"284,012"			"2,716"
+			Toledo Department of Public Service	"2,206"	
+			Metroparks of the Toledo Area (within Toledo)	510	
+					
+					
+					
+"Tucson, Arizona"	"145,094"	"524,295"			"3,477"
+			Tucson Parks and Recreation Department	"3,319"	
+			Kino Sports Complex	158	
+					
+"Tulsa, Oklahoma"	"125,923"	"393,987"			"7,291"
+			Tulsa Park and Recreation Department	"5,995"	
+			River Parks Authority	"1,066"	
+			Tulsa County Parks (within Tulsa city)	230	
+					
+"Virginia Beach, Virginia"	"159,370"	"447,021"			"24,916"
+			Back Bay National Wildlife Refuge (within Virginia Beach)	"9,180"	
+			Virginia Department of Conservation and Recreation (within Virginia Beach)	"7,211"	
+			Virginia Beach Department of Parks and Recreation	"6,175"	
+			Princess Anne Wildlife Management Area (within Virginia Beach)	"1,546"	
+			Mackay Island National Wildlife Refuge (within Virginia Beach)	804	
+					
+"Washington, D.C."	"39,071"	"632,323"			"8,513"
+			"National Park Service (within Washington, D.C.)"	"6,833"	
+			District of Columbia Department of Parks and Recreation	931	
+			National Arboretum*	446	
+			Smithsonian National Zoological Park	163	
+			Architect of the Capitol	140	
+					
+"Wichita, Kansas"	"101,949"	"385,577"			"4,629"
+			Wichita Park and Recreation Department	"4,629"	
+					
+"Winston-Salem, North Carolina"	"84,767"	"234,349"			"3,450"
+			Winston-Salem Recreation and Parks	"3,450"	
+					
+					
+				"Total, all cities:"	"1,578,103"
+			"*The National Arboretum in Washington, D.C. is a research facility that functions as a public park."		

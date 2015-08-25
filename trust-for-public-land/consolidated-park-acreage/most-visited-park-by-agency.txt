@@ -1,0 +1,109 @@
+Most Visited Park by Major City Agency		
+Agency	Park	Annual Visitation
+New York City Department of Parks and Recreation	Central Park	"40,000,000"
+"National Park Service (within Washington, D.C.)"	Lincoln Memorial	"29,408,432"
+Chicago Park District	Lincoln Park	"20,000,000"
+San Diego Park and Recreation Department	Mission Bay Park	"16,500,000"
+San Francisco Recreation and Parks Department	Golden Gate Park	"13,000,000"
+Los Angeles Department of Recreation and Parks	Griffith Park	"12,000,000"
+"St. Louis Department of Parks, Recreation and Forestry"	Forest Park	"12,000,000"
+Philadelphia Parks and Recreation Department	Fairmount Park	"10,000,000"
+Phoenix Parks and Recreation Department	See Comments	"7,500,000"
+Houston Parks and Recreation Department	Hermann Park	"5,400,000"
+Minneapolis Park and Recreation Board	Chain of Lakes Regional Park	"5,361,200"
+Dallas Park and Recreation Department	Fair Park	"5,293,820"
+"Milwaukee County Department of Parks, Recreation and Culture (within Milwuakee city)"	Veterans Park	"5,000,000"
+St. Paul Parks and Recreation Department	Como Park	"4,482,100"
+"Atlanta Department of Parks, Recreation and Cultural Affairs"	Piedmont Park	"4,000,000"
+Detroit Recreation Department	Belle Isle	"4,000,000"
+Seattle Parks and Recreation	Green Lake Park	"3,650,000"
+Oakland Office of Parks and Recreation	Lakeside Park	"3,500,000"
+Boston Parks and Recreation Department	Boston Common	"2,500,000"
+Jacksonville Recreation and Community Services Department	Drew Field	"2,500,000"
+"Kansas City, Mo. Parks and Recreation Department"	Swope Park	"2,125,000"
+"Orlando Families, Parks and Recreation Department"	Lake Eola	"2,100,000"
+"Colorado Springs Parks, Recreation and Cultural Services"	Garden of the Gods	"2,000,000"
+Denver Parks and Recreation	City Park 	"2,000,000"
+San Antonio Parks and Recreation Department	San Antonio Riverwalk	"2,000,000"
+Pittsburgh Public Works	Schenley Park & Plaza	"1,800,000"
+Greensboro Parks and Recreation Department	Country/Jaycee Park	"1,641,304"
+Austin Parks and Recreation Department	Town Lake Park	"1,500,000"
+Fort Worth Parks and Community Services Department	Trinity	"1,500,000"
+Massachusetts Department of Conservation and Recreation (within Boston)	The Esplanade	"1,100,000"
+"Fresno Parks, After School, Recreation and Community Services Department"	Woodward Park	"1,010,958"
+Cincinnati Park Board	Eden Park	"1,000,000"
+Memphis Division of Parks and Neighborhoods	Overton	"1,000,000"
+Nashville/Davidson Metropolitan Board of Parks and Recreation	Centennial	"1,000,000"
+New Orleans Recreation Department	Jackson Square	"1,000,000"
+Oklahoma City Parks and Recreation Department	Myriad Botanical Gardens	"1,000,000"
+"Santa Ana Parks, Recreation and Community Services"	Centennial Park	"936,240"
+Scottsdale Parks and Recreation Division	McCormick-Stillman	"892,581"
+Albuquerque Parks and Recreation Department	Balloon Fiesta Park	"812,232"
+Virginia Beach Department of Parks and Recreation	Mount Trashmore Park	"808,569"
+Fort Wayne Parks and Recreation Department	Franke	"750,000"
+"Long Beach Department of Parks, Recreation and Marine"	El Dorado 	"714,658"
+Sacramento Department of Parks and Recreation	Land Park 	"710,000"
+Mecklenburg County Park and Recreation	Freedom Park	"695,000"
+Irvine Community Services Department	Heritage Park	"675,000"
+Boise Parks and Recreation	Julia Davis Park	"629,067"
+Lincoln Parks and Recreation Department	Pioneers Park	"550,000"
+"Raleigh Parks, Recreation and Cultural Resources Department"	Pullen Park	"540,000"
+Madison Parks Division	Warner 	"500,000"
+Tulsa Park and Recreation Department	Mohawk	"500,000"
+"San Jose Department of Parks, Recreation and Neighborhood Services"	Happy Hollow Park & Zoo	"442,000"
+Anchorage Parks and Recreation Department	Town Square	"425,000"
+"Norfolk Department of Recreation, Parks and Open Space"	Town Point Park	"412,500"
+Glendale Parks and Recreation Department	Murphy Park	"395,000"
+St. Petersburg Parks & Recreation Department	Vinoy	"369,400"
+Arlington County Department of Parks and Recreation	Long Bridge Park	"360,000"
+Indianapolis Department of Parks and Recreation	Eagle Creek Park	"324,421"
+Cincinnati Recreation Commission	Dunham Complex	"300,000"
+Baltimore City Department of Recreation and Parks	Druid Hill	"290,000"
+Garland Parks and Recreation Department	Audubon Park	"256,500"
+Gilbert Parks and Recreation	Freestone	"250,000"
+E. Baton Rouge Recreation and Parks Department	Independence	"225,000"
+"Aurora Parks, Recreation and Open Space"	Aurora Reservoir	"220,812"
+"Las Vegas Department of Parks, Recreation and Neighborhood Services"	Floyd Lamb Park at Tule Springs	"200,000"
+Miami Department of Parks and Recreation	Grapeland Water Park	"186,000"
+Winston-Salem Recreation and Parks	Salem Lake	"105,000"
+Chula Vista Public Works Department - Parks Section	Rohr	"100,000"
+City of Durham Parks and Recreation Department	Forest Hills Park	"90,000"
+"Riverside Parks, Recreation and Community Services Department"	Fairmount Park	"78,000"
+"Omaha Department of Parks, Recreation and Public Property"	Lewis & Clark Landing	"67,000"
+Lexington-Fayette Urban County Government Division of Parks and Recreation	Jacobson	"50,000"
+Bakersfield Recreation and Parks Department	River Walk 	"22,000"
+Jersey City Division of Parks and Forestry	Pershing Field	"20,000"
+Anaheim Community Services Department	Pearson	n.a.
+"Arlington, Texas, Parks and Recreation Department"	River Legacy	n.a.
+Buffalo Division of Parks and Recreation	Delaware	n.a.
+Chandler Community Services Department	Desert Breeze Park	n.a.
+Chesapeake Parks and Recreation Department	Great Bridge Locks Park	n.a.
+Cleveland Department of Public Works	Luke Easter	n.a.
+Columbus Recreation and Parks Department	Schiller Park	n.a.
+Corpus Christi Parks and Recreation Department	Cole	n.a.
+El Paso Parks and Recreation Department	Eastwood	n.a.
+"Essex County Department of Parks, Recreation and Cultural Affairs (within Newark)"	Branch Brook Park	n.a.
+Fremont Recreation Services Division	Central Park	n.a.
+Henderson Parks and Recreation Department	Mission Hills Park	n.a.
+Louisville Metro Parks	Iroquois Park	n.a.
+Lubbock Parks and Recreation	Mackenzie	n.a.
+New Orleans Department of Parks and Parkways	Jackson Square	n.a.
+"San Bernardino Parks, Recreation & Community Services"	Perris Hill Park	n.a.
+Stockton Public Works Department	Victory	n.a.
+Tampa Parks and Recreation Department	Bayshore Boulevard	n.a.
+Tucson Parks and Recreation Department	Gene C. Reid Park	n.a.
+Wichita Park and Recreation Department	Central Riverside Park	n.a.
+District of Columbia Department of Parks and Recreation	n.a.	
+Hialeah Department of Recreation and Community Services	n.a.	
+Honolulu Department of Parks and Recreation (within Urban Honolulu)	n.a.	
+Hudson County Division of Parks (within Jersey City)	n.a.	
+Irving Parks and Recreation	n.a.	
+Laredo Parks and Leisure Services Department	n.a.	
+"Mesa Parks, Recreation and Commercial Facilities Department"	n.a.	
+Milwaukee Recreation	n.a.	
+North Las Vegas Parks and Recreation Department	n.a.	
+Toledo Department of Public Service	n.a.	
+Plano Parks and Recreation Department		
+Portland Parks and Recreation		
+"Reno Parks, Recreation and Community Services Department"		
+		"244,774,794"

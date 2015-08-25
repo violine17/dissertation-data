@@ -1,0 +1,127 @@
+	City Population Density										
+	City	2012 Population	Land Area (acres)	Density for non-adjusted Land Area	Non-Adjusted Density Category	Airport Areas (acres)	Railyard Areas (acres)	Combined Airport and Railyard Area (acres)	Adjusted Land Area	People per Acre	
+High-Density Cities											
+	New York	"8,336,697"	"193,692"	43.04	High	"5,151"	595	"5,746"	"187,946"	44.36	
+	San Francisco	"825,863"	"29,999"	27.53	High	0	19	19	"29,980"	27.55	
+	Jersey City	"254,441"	"9,468"	26.87	High	0	207	207	"9,261"	27.47	
+	Boston	"636,479"	"30,897"	20.60	High	"1,503"	219	"1,722"	"29,175"	21.82	
+	Chicago	"2,714,856"	"145,686"	18.63	High	"6,628"	"2,262"	"8,890"	"136,796"	19.85	
+	Newark	"277,727"	"15,480"	17.94	High	"1,119"	307	"1,426"	"14,054"	19.76	
+	Santa Ana	"330,920"	"17,453"	18.96	High	0	0	0	"17,453"	18.96	
+	Philadelphia	"1,547,607"	"85,825"	18.03	High	"1,955"	957	"2,912"	"82,913"	18.67	
+	Miami	"413,892"	"22,957"	18.03	High	0	8	8	"22,949"	18.04	
+	Hialeah	"231,941"	"13,728"	16.90	High	0	62	62	"13,666"	16.97	
+	"Washington, D.C."	"632,323"	"39,071"	16.18	High	0	116	116	"38,955"	16.23	
+	Long Beach	"467,892"	"32,188"	14.54	High	"1,067"	55	"1,122"	"31,066"	15.06	
+	"Arlington, Virginia"	"221,045"	"16,623"	13.30	High	745	0	745	"15,878"	13.92	
+	Los Angeles	"3,857,799"	"299,949"	12.86	High	"4,485"	434	"4,919"	"295,030"	13.08	
+	Baltimore	"621,342"	"51,804"	11.99	High	0	486	486	"51,318"	12.11	
+	Oakland	"400,740"	"35,703"	11.22	High	"2,307"	215	"2,522"	"33,181"	12.08	
+	Seattle	"634,535"	"53,723"	11.81	High	471	487	958	"52,765"	12.03	
+	Minneapolis	"392,880"	"34,543"	11.37	High	0	585	585	"33,958"	11.57	
+									"Median, High-Density Cities"	17.50	
+Intermediate-High-Density Cities											
+	Anaheim	"343,248"	"31,895"	10.76	High	0	5	5	"31,890"	10.76	
+	Buffalo	"259,384"	"25,846"	10.04	Intermediate-High	0	538	538	"25,308"	10.25	
+	Milwaukee (city)	"598,916"	"61,518"	9.74	Intermediate-High	"2,176"	216	"2,392"	"59,126"	10.13	
+	Honolulu (urban)	"345,610"	"38,720"	8.93	Intermediate-High	"2,391"	0	"2,391"	"36,329"	9.51	
+	St. Paul	"290,770"	"33,266"	8.74	Intermediate-High	578	325	903	"32,363"	8.98	
+	San Jose	"982,765"	"112,977"	8.70	Intermediate-High	945	79	"1,024"	"111,953"	8.78	
+	Pittsburgh	"306,211"	"35,435"	8.64	Intermediate-High	0	86	86	"35,349"	8.66	
+	Denver	"634,265"	"97,920"	6.48	Intermediate-Low	"22,721"	402	"23,123"	"74,797"	8.48	
+	Cleveland	"390,928"	"49,726"	7.86	Intermediate-High	"2,173"	673	"2,846"	"46,880"	8.34	
+	St. Louis	"318,172"	"39,622"	8.03	Intermediate-High	0	532	532	"39,090"	8.14	
+	Detroit	"701,475"	"88,800"	7.90	Intermediate-High	311	645	956	"87,844"	7.99	
+	Chula Vista	"252,422"	"31,764"	7.95	Intermediate-High	0	0	0	"31,764"	7.95	
+	Sacramento	"475,516"	"62,666"	7.59	Intermediate-High	518	176	694	"61,972"	7.67	
+	Stockton	"297,984"	"39,469"	7.55	Intermediate-High	0	551	551	"38,918"	7.66	
+	Norfolk	"245,782"	"34,637"	7.10	Intermediate-Low	948	503	"1,451"	"33,186"	7.41	
+	Portland	"603,106"	"85,393"	7.06	Intermediate-Low	"3,052"	716	"3,768"	"81,625"	7.39	
+	Fresno	"505,882"	"71,652"	7.06	Intermediate-Low	"1,225"	293	"1,518"	"70,134"	7.21	
+	Las Vegas	"596,424"	"86,921"	6.86	Intermediate-Low	0	0	0	"86,921"	6.86	
+									"Median, Intermediate-High-Density Cities:"	8.24	
+Intermediate-Low-Density Cities											
+	San Diego	"1,338,348"	"208,120"	6.43	Intermediate-Low	"2,131"	71	"2,202"	"205,918"	6.50	
+	Garland	"233,564"	"36,534"	6.39	Intermediate-Low	0	14	14	"36,520"	6.40	
+	St. Petersburg	"246,541"	"39,515"	6.24	Intermediate-Low	140	0	140	"39,375"	6.26	
+	"Arlington, Texas"	"375,600"	"61,364"	6.12	Intermediate-Low	424	64	488	"60,876"	6.17	
+	Cincinnati	"296,550"	"49,883"	5.94	Intermediate-Low	645	514	"1,159"	"48,724"	6.09	
+	"Irving, Texas"	"225,427"	"42,891"	5.26	Intermediate-Low	"5,801"	30	"5,831"	"37,060"	6.08	
+	Riverside	"313,673"	"51,930"	6.04	Intermediate-Low	353	9	362	"51,568"	6.08	
+	Glendale	"232,143"	"38,385"	6.05	Intermediate-Low	163	26	189	"38,196"	6.08	
+	Columbus	"809,798"	"138,988"	5.83	Intermediate-Low	"4,868"	811	"5,679"	"133,309"	6.07	
+	Chandler	"245,628"	"41,224"	5.96	Intermediate-Low	644	0	644	"40,580"	6.05	
+	Plano	"272,068"	"45,812"	5.94	Intermediate-Low	0	0	0	"45,812"	5.94	
+	Houston	"2,160,821"	"383,737"	5.63	Intermediate-Low	"12,200"	"1,266"	"13,466"	"370,271"	5.84	
+	San Bernardino	"213,295"	"37,889"	5.63	Intermediate-Low	"1,205"	105	"1,310"	"36,579"	5.83	
+	Dallas	"1,241,162"	"217,932"	5.70	Intermediate-Low	"2,058"	198	"2,256"	"215,676"	5.75	
+	"Irvine, California"	"229,985"	"42,308"	5.44	Intermediate-Low	0	0	0	"42,308"	5.44	
+	"Mesa, Arizona"	"452,084"	"87,330"	5.18	Intermediate-Low	"3,752"	0	"3,752"	"83,578"	5.41	
+	Omaha	"421,570"	"81,337"	5.18	Intermediate-Low	"2,707"	543	"3,250"	"78,087"	5.40	
+	Atlanta	"443,775"	"85,217"	5.21	Intermediate-Low	205	762	967	"84,250"	5.27	
+	Gilbert	"221,140"	"43,496"	5.08	Intermediate-Low	0	0	0	"43,496"	5.08	
+	Madison	"240,323"	"49,145"	4.89	Intermediate-Low	"1,561"	65	"1,626"	"47,519"	5.06	
+	Tampa	"347,645"	"72,582"	4.79	Intermediate-Low	"2,193"	300	"2,493"	"70,089"	4.96	
+	Lincoln	"265,404"	"57,033"	4.65	Intermediate-Low	"2,632"	735	"3,367"	"53,666"	4.95	
+	Albuquerque	"555,417"	"120,147"	4.62	Intermediate-Low	"3,979"	117	"4,096"	"116,051"	4.79	
+	Baton Rouge	"230,058"	"49,246"	4.67	Intermediate-Low	783	110	893	"48,353"	4.76	
+	San Antonio	"1,382,951"	"294,997"	4.69	Intermediate-Low	"2,379"	320	"2,699"	"292,298"	4.73	
+	Raleigh	"423,179"	"91,458"	4.63	Intermediate-Low	0	59	59	"91,399"	4.63	
+	Orlando	"249,562"	"65,533"	3.81	LOW	"11,008"	31	"11,039"	"54,494"	4.58	
+	Phoenix	"1,488,750"	"330,690"	4.50	Intermediate-Low	"2,791"	170	"2,961"	"327,729"	4.54	
+	Austin	"842,592"	"190,653"	4.42	Intermediate-Low	"3,739"	12	"3,751"	"186,902"	4.51	
+	Fremont	"221,986"	"49,574"	4.48	Intermediate-Low	0	58	58	"49,516"	4.48	
+	"Laredo, Texas"	"244,731"	"56,901"	4.30	Intermediate-Low	"1,193"	317	"1,510"	"55,391"	4.42	
+	"Boise, Idaho"	"212,303"	"50,793"	4.18	LOW	"2,427"	23	"2,450"	"48,343"	4.39	
+									"Median, Intermediate-Low-Density Cities"	5.40	
+Low Density Cities											
+	El Paso	"672,538"	"163,351"	4.12	LOW	"3,249"	339	"3,588"	"159,763"	4.21	
+	Bakersfield	"358,597"	"90,985"	3.94	LOW	230	228	458	"90,527"	3.96	
+	Wichita	"385,577"	"101,949"	3.78	LOW	"2,795"	181	"2,976"	"98,973"	3.90	
+	Henderson	"265,679"	"68,948"	3.85	LOW	406	0	406	"68,542"	3.88	
+	Indianapolis	"834,852"	"231,317"	3.61	LOW	"4,869"	483	"5,352"	"225,965"	3.69	
+	Fort Wayne	"254,555"	"70,796"	3.60	LOW	"1,360"	118	"1,478"	"69,318"	3.67	
+	Reno	"231,027"	"65,926"	3.50	LOW	"2,867"	58	"2,925"	"63,001"	3.67	
+	Colorado Springs	"431,834"	"124,506"	3.47	LOW	"6,418"	45	"6,463"	"118,043"	3.66	
+	Fort Worth	"777,992"	"217,484"	3.58	LOW	"2,457"	962	"3,419"	"214,065"	3.63	
+	Tucson	"524,295"	"145,094"	3.61	LOW	352	254	606	"144,488"	3.63	
+	North Las Vegas	"223,491"	"64,861"	3.45	LOW	915	5	920	"63,941"	3.50	
+	Durham	"239,358"	"68,717"	3.48	LOW	0	39	39	"68,678"	3.49	
+	Aurora	"339,030"	"99,030"	3.42	LOW	208	34	242	"98,788"	3.43	
+	New Orleans	"369,250"	"108,431"	3.41	LOW	387	389	776	"107,655"	3.43	
+	Greensboro	"277,080"	"80,970"	3.42	LOW	0	126	126	"80,844"	3.43	
+	Memphis	"655,155"	"201,635"	3.25	LOW	"4,260"	"1,277"	"5,537"	"196,098"	3.34	
+	Louisville/Jefferson	"750,828"	"237,115"	3.17	LOW	"2,410"	792	"3,202"	"233,913"	3.21	
+	Tulsa	"393,987"	"125,923"	3.13	LOW	"1,881"	49	"1,930"	"123,993"	3.18	
+	Corpus Christi	"312,195"	"102,791"	3.04	LOW	"2,187"	51	"2,238"	"100,553"	3.10	
+	Lubbock	"236,065"	"78,343"	3.01	LOW	"1,322"	92	"1,414"	"76,929"	3.07	
+	Charlotte/Mecklenburg	"969,031"	"335,259"	2.89	LOW	"2,679"	285	"2,964"	"332,295"	2.92	
+	Virginia Beach	"447,021"	"159,370"	2.80	LOW	0	29	29	"159,341"	2.81	
+	Winston-Salem	"234,349"	"84,767"	2.76	LOW	779	71	850	"83,917"	2.79	
+	Kansas City	"464,310"	"201,568"	2.30	LOW	"5,176"	"1,147"	"6,323"	"195,245"	2.38	
+	Nashville/Davidson	"648,295"	"304,080"	2.13	LOW	"3,466"	553	"4,019"	"300,061"	2.16	
+	Scottsdale	"223,514"	"117,709"	1.90	LOW	620	0	620	"117,089"	1.91	
+	Jacksonville	"836,507"	"478,082"	1.75	LOW	"9,759"	"1,025"	"10,784"	"467,298"	1.79	
+	Lexington/Fayette	"305,489"	"181,536"	1.68	LOW	611	26	637	"180,899"	1.69	
+	Oklahoma City	"599,199"	"388,103"	1.54	LOW	"9,197"	434	"9,631"	"378,472"	1.58	
+	Chesapeake	"228,417"	"218,112"	1.05	LOW	"1,354"	119	"1,473"	"216,639"	1.05	
+	Anchorage	"298,610"	"1,090,997"	0.27	LOW	"4,787"	191	"4,978"	"1,086,019"	0.27	
+									"Median, Low-Density Cities"	3.34	
+											
+	"AVERAGE, ALL CITIES"			7.43						7.64	
+	STANDARD DEVIATION			6.37		"3,195"	368	"3,347"		6.56	
+	UPPER QUARTILE			10.62		"1,597"	184	"1,673"		10.92	
+	LOWER QUARTILE			4.24		"-1,597"	-184	"-1,673"		4.36	
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											

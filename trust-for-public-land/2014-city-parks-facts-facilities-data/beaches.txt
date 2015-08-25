@@ -1,0 +1,105 @@
+"Public Beaches per 100,000 Residents"			
+2013			
+City	Population	Public Beaches	"Beaches per 100,000 Residents"
+Madison	"240,323"	12	5.0
+Minneapolis	"392,880"	12	3.1
+Virginia Beach	"447,021"	13	2.9
+St. Petersburg	"246,541"	5	2.0
+Corpus Christi	"312,195"	6	1.9
+Long Beach	"467,892"	9	1.9
+San Diego	"1,338,348"	26	1.9
+Cleveland	"390,928"	7	1.8
+Boston	"636,479"	10	1.6
+Seattle	"634,535"	9	1.4
+Chicago	"2,714,856"	32	1.2
+Norfolk	"245,782"	3	1.2
+Tampa	"347,645"	4	1.2
+Portland	"603,106"	6	1.0
+Baton Rouge	"230,058"	2	0.9
+Laredo	"244,731"	2	0.8
+Nashville/Davidson	"648,295"	5	0.8
+Anchorage	"298,610"	2	0.7
+Jacksonville	"836,507"	6	0.7
+Milwaukee	"598,916"	4	0.7
+Fort Worth	"777,992"	5	0.6
+Sacramento	"475,516"	3	0.6
+San Francisco	"825,863"	4	0.5
+Garland	"233,564"	1	0.4
+Aurora	"339,030"	1	0.3
+St. Paul	"290,770"	1	0.3
+Atlanta	"443,775"	1	0.2
+Austin	"842,592"	2	0.2
+Baltimore	"621,342"	1	0.2
+Colorado Springs	"431,834"	1	0.2
+Kansas City	"464,310"	1	0.2
+Miami	"413,892"	1	0.2
+New York	"8,336,697"	13	0.2
+Oakland	"400,740"	1	0.2
+San Jose	"982,765"	2	0.2
+Charlotte/Mecklenburg	"969,031"	1	0.1
+Detroit	"701,475"	1	0.1
+Houston	"2,160,821"	2	0.1
+Indianapolis	"834,852"	1	0.1
+Los Angeles	"3,857,799"	5	0.1
+Albuquerque	"555,417"	0	0.0
+Anaheim	"343,248"	0	0.0
+"Arlington, Texas"	"375,600"	0	0.0
+"Arlington, Virginia"	"221,045"	0	0.0
+Bakersfield	"358,597"	0	0.0
+Boise	"212,303"	0	0.0
+Buffalo	"259,384"	0	0.0
+Chandler	"245,628"	0	0.0
+Chesapeake	"228,417"	0	0.0
+Chula Vista	"252,422"	0	0.0
+Cincinnati	"296,550"	0	0.0
+Columbus	"809,798"	0	0.0
+Dallas	"1,241,162"	0	0.0
+Denver	"634,265"	0	0.0
+Durham	"239,358"	0	0.0
+El Paso	"672,538"	0	0.0
+Fort Wayne	"254,555"	0	0.0
+Fremont	"221,986"	0	0.0
+Fresno	"505,882"	0	0.0
+Gilbert	"221,140"	0	0.0
+Glendale	"232,143"	0	0.0
+Greensboro	"277,080"	0	0.0
+Henderson	"265,679"	0	0.0
+Irvine	"229,985"	0	0.0
+Irving	"225,427"	0	0.0
+Jersey City	"254,441"	0	0.0
+Las Vegas	"596,424"	0	0.0
+Lexington/Fayette	"305,489"	0	0.0
+Lincoln	"265,404"	0	0.0
+Louisville/Jefferson	"750,828"	0	0.0
+Lubbock	"236,065"	0	0.0
+Memphis	"655,155"	0	0.0
+Mesa	"452,084"	0	0.0
+New Orleans	"369,250"	0	0.0
+Newark	"277,727"	0	0.0
+North Las Vegas	"223,491"	0	0.0
+Oklahoma City	"599,199"	0	0.0
+Omaha	"421,570"	0	0.0
+Orlando	"249,562"	0	0.0
+Philadelphia	"1,547,607"	0	0.0
+Phoenix	"1,488,750"	0	0.0
+Pittsburgh	"306,211"	0	0.0
+Plano	"272,068"	0	0.0
+Raleigh	"423,179"	0	0.0
+Reno	"231,027"	0	0.0
+Riverside	"313,673"	0	0.0
+San Antonio	"1,382,951"	0	0.0
+San Bernardino	"213,295"	0	0.0
+Santa Ana	"330,920"	0	0.0
+Scottsdale	"223,514"	0	0.0
+St. Louis	"318,172"	0	0.0
+Stockton	"297,984"	0	0.0
+Tucson	"524,295"	0	0.0
+Tulsa	"393,987"	0	0.0
+"Washington, D.C."	"632,323"	0	0.0
+Wichita	"385,577"	0	0.0
+Winston-Salem	"234,349"	0	0.0
+Hialeah	"231,941"	n.a.	
+Honolulu	"345,610"	n.a.	
+Toledo	"284,012"	n.a.	
+TOTAL		223	
+			

@@ -1,0 +1,105 @@
+"Park Units per 10,000 Residents"			
+2013			
+"Park Units include each individual city, county, regional, state, and federal park within the city limits."			
+City	Population	Park Units	"Park Units per 10,000 Residents"
+Cincinnati	"296,550"	363	12.2
+Madison	"240,323"	278	11.6
+St. Petersburg	"246,541"	207	8.4
+Atlanta	"443,775"	358	8.1
+Buffalo	"259,384"	204	7.9
+Anchorage	"298,610"	224	7.5
+Seattle	"634,535"	436	6.9
+Baltimore	"621,342"	421	6.8
+Corpus Christi	"312,195"	201	6.4
+"Washington, D.C."	"632,323"	406	6.4
+Greensboro	"277,080"	174	6.3
+New Orleans	"369,250"	232	6.3
+St. Paul	"290,770"	184	6.3
+Virginia Beach	"447,021"	281	6.3
+"Arlington, Virginia"	"221,045"	131	5.9
+Boston	"636,479"	370	5.8
+Detroit	"701,475"	390	5.6
+Pittsburgh	"306,211"	172	5.6
+Albuquerque	"555,417"	304	5.5
+Tampa	"347,645"	192	5.5
+Irving	"225,427"	122	5.4
+Omaha	"421,570"	223	5.3
+Portland	"603,106"	321	5.3
+Raleigh	"423,179"	219	5.2
+Columbus	"809,798"	411	5.1
+Jacksonville	"836,507"	425	5.1
+Lincoln	"265,404"	133	5
+New York	"8,336,697"	"4,137"	5
+Kansas City	"464,310"	229	4.9
+Boise	"212,303"	102	4.8
+Colorado Springs	"431,834"	206	4.8
+Minneapolis	"392,880"	189	4.8
+Orlando	"249,562"	121	4.8
+Sacramento	"475,516"	228	4.8
+Mesa	"452,084"	206	4.6
+Cleveland	"390,928"	168	4.3
+Denver	"634,265"	272	4.3
+Reno	"231,027"	95	4.1
+Laredo	"244,731"	97	4
+Glendale	"232,143"	91	3.9
+Norfolk	"245,782"	96	3.9
+Oakland	"400,740"	158	3.9
+Baton Rouge	"230,058"	88	3.8
+Newark	"277,727"	99	3.6
+El Paso	"672,538"	235	3.5
+Lexington/Fayette	"305,489"	108	3.5
+St. Louis	"318,172"	110	3.5
+Austin	"842,592"	290	3.4
+Fort Wayne	"254,555"	86	3.4
+Long Beach	"467,892"	161	3.4
+Lubbock	"236,065"	80	3.4
+San Diego	"1,338,348"	449	3.4
+Tulsa	"393,987"	133	3.4
+Wichita	"385,577"	130	3.4
+Aurora	"339,030"	112	3.3
+Fort Worth	"777,992"	260	3.3
+Chesapeake	"228,417"	72	3.2
+Winston-Salem	"234,349"	74	3.2
+Memphis	"655,155"	205	3.1
+Plano	"272,068"	83	3.1
+Dallas	"1,241,162"	374	3
+Durham	"239,358"	69	2.9
+San Francisco	"825,863"	236	2.9
+Garland	"233,564"	65	2.8
+Jersey City	"254,441"	70	2.8
+Miami	"413,892"	116	2.8
+Tucson	"524,295"	148	2.8
+Irvine	"229,985"	63	2.7
+Oklahoma City	"599,199"	159	2.7
+Chandler	"245,628"	61	2.5
+Indianapolis	"834,852"	209	2.5
+San Jose	"982,765"	244	2.5
+"Arlington, Texas"	"375,600"	90	2.4
+Charlotte/Mecklenburg	"969,031"	235	2.4
+Fremont	"221,986"	53	2.4
+Chicago	"2,714,856"	615	2.3
+Chula Vista	"252,422"	57	2.3
+Stockton	"297,984"	68	2.3
+Milwaukee	"598,916"	134	2.2
+Nashville/Davidson	"648,295"	143	2.2
+Henderson	"265,679"	56	2.1
+Philadelphia	"1,547,607"	328	2.1
+Riverside	"313,673"	67	2.1
+Bakersfield	"358,597"	71	2
+Houston	"2,160,821"	418	1.9
+Scottsdale	"223,514"	42	1.9
+San Antonio	"1,382,951"	254	1.8
+Los Angeles	"3,857,799"	650	1.7
+Louisville/Jefferson	"750,828"	125	1.7
+Anaheim	"343,248"	54	1.6
+North Las Vegas	"223,491"	34	1.5
+Phoenix	"1,488,750"	230	1.5
+San Bernardino	"213,295"	32	1.5
+Santa Ana	"330,920"	47	1.4
+Fresno	"505,882"	66	1.3
+Gilbert	"221,140"	27	1.2
+Las Vegas	"596,424"	68	1.1
+Hialeah	"231,941"	22	0.9
+Toledo	"284,012"	2	0.1
+Honolulu	"345,610"	n.a.	
+		"22,354"	

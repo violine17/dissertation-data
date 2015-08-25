@@ -1,0 +1,112 @@
+"Employees Per 10,000 Residents by City Agency"						
+						
+2013						
+"Employees are full-time and part-time employees, counted as Full-Time Equivalent (FTE); seasonal staff are not counted. Italics indicate estimates based on past-year data. Note that Boston, Cincinnati, New Orleans, and Washington, D.C. have two major city park agencies."						
+Agency	Population	Fiscal Year	"Regular, Non-Seasonal Employees"	"Employees per 10,000 Residents"		
+St. Petersburg Parks & Recreation Department	"246,541"	2012      	389	15.8		
+Seattle Parks and Recreation	"634,535"	2012      	951	15.0		
+Virginia Beach Department of Parks and Recreation	"447,021"	2012      	655	14.7		
+Irvine Community Services Department	"229,985"	2013      	321	14.0		
+"National Park Service (within Washington, D.C.)"	"632,323"	2012      	861	13.6		
+Tampa Parks and Recreation Department	"347,645"	2012      	463	13.3		
+Miami Department of Parks and Recreation	"413,892"	2011      	505	12.2		
+Minneapolis Park and Recreation Board	"392,880"	2012      	475	12.1		
+Scottsdale Parks and Recreation Division	"223,514"	2013      	262	11.7		
+St. Paul Parks and Recreation Department	"290,770"	2012      	335	11.5		
+Arlington County Department of Parks and Recreation	"221,045"	2012      	249	11.3		
+Plano Parks and Recreation Department	"272,068"	2012      	297	10.9		
+Chicago Park District	"2,714,856"	2012      	"2,924"	10.8		
+"Raleigh Parks, Recreation and Cultural Resources Department"	"423,179"	2012      	428	10.1		
+Cleveland Department of Public Works -- Parks Division	"390,928"	2012      	377	9.6		
+"Norfolk Department of Recreation, Parks and Open Space"	"245,782"	2012      	236	9.6		
+Chandler Community Services Department	"245,628"	2010	223	9.1		
+North Las Vegas Parks and Recreation Department	"223,491"	2010	201	9.0		
+San Francisco Recreation and Parks Department	"825,863"	2013      	726	8.8		
+Pittsburgh Public Works -- Parks Division	"306,211"	2012      	260	8.5		
+"Atlanta Department of Parks, Recreation and Cultural Affairs"	"443,775"	2012      	367	8.3		
+Chesapeake Parks and Recreation Department	"228,417"	2012      	186	8.1		
+Anaheim Community Services Department	"343,248"	2013      	271	7.9		
+Greensboro Parks and Recreation Department	"277,080"	2012      	214	7.7		
+"Orlando Families, Parks and Recreation Department"	"249,562"	2012      	190	7.6		
+"St. Louis Department of Parks, Recreation and Forestry"	"318,172"	2013      	227	7.1		
+Denver Parks and Recreation	"634,265"	2012      	444	7.0		
+Dallas Park and Recreation Department	"1,241,162"	2012      	856	6.9		
+Portland Parks and Recreation	"603,106"	2012      	411	6.8		
+Henderson Parks and Recreation Department	"265,679"	2013      	179	6.7		
+E. Baton Rouge Parish Recreation and Park Commission	"230,058"	2010	152	6.6		
+Austin Parks and Recreation Department	"842,592"	2012      	547	6.5		
+Madison Parks Division	"240,323"	2012      	154	6.4		
+Corpus Christi Parks and Recreation Department	"312,195"	2012	200	6.4		
+"Aurora Parks, Recreation and Open Space"	"339,030"	2012      	214	6.3		
+"Kansas City, Mo. Parks and Recreation Department"	"464,310"	2013      	292	6.3		
+District of Columbia Department of Parks and Recreation	"632,323"	2012      	396	6.3		
+"Riverside Parks, Recreation and Community Services Department"	"313,673"	2012      	196	6.2		
+Tucson Parks and Recreation Department	"524,295"	2012      	322	6.1		
+Oakland Office of Parks and Recreation	"400,740"	2013      	241	6.0		
+New York City Department of Parks and Recreation	"8,336,697"	2013      	"4,902"	5.9		
+Nashville/Davidson Metropolitan Board of Parks and Recreation	"648,295"	2012      	380	5.9		
+Garland Parks and Recreation Department	"233,564"	2010	136	5.8		
+"Long Beach Department of Parks, Recreation and Marine"	"467,892"	2012      	272	5.8		
+Fort Worth Parks and Community Services Department	"777,992"	2012      	437	5.6		
+Cincinnati Recreation Commission	"296,550"	2012      	166	5.6		
+San Diego Park and Recreation Department	"1,338,348"	2012      	731	5.5		
+Albuquerque Parks and Recreation Department	"555,417"	2012      	300	5.4		
+Baltimore City Department of Recreation and Parks	"621,342"	2012      	324	5.2		
+San Antonio Parks and Recreation Department	"1,382,951"	2012      	690	5.0		
+Phoenix Parks and Recreation Department	"1,488,750"	2013      	742	5.0		
+Sacramento Department of Parks and Recreation	"475,516"	2013      	236	5.0		
+Lincoln Parks and Recreation Department	"265,404"	2010	128	4.8		
+Louisville Metro Parks	"750,828"	2012      	357	4.8		
+Fort Wayne Parks and Recreation Department	"254,555"	2012      	120	4.7		
+Winston-Salem Recreation and Parks	"234,349"	2012      	106	4.5		
+"Arlington, Texas, Parks and Recreation Department"	"375,600"	2012      	166	4.4		
+City of Durham Parks and Recreation Department	"239,358"	2013      	103	4.3		
+Lexington-Fayette Urban County Government Division of Parks and Recreation	"305,489"	2013      	129	4.2		
+Bakersfield Recreation and Parks Department	"358,597"	2013      	149	4.2		
+Cincinnati Park Board	"296,550"	2011      	123	4.1		
+Indianapolis Department of Parks and Recreation	"834,852"	2012      	344	4.1		
+Wichita Park and Recreation Department	"385,577"	2012      	158	4.1		
+El Paso Parks and Recreation Department	"672,538"	2011      	267	4.0		
+Anchorage Parks and Recreation Department	"298,610"	2012      	118	4.0		
+Philadelphia Parks and Recreation Department	"1,547,607"	2013      	596	3.9		
+New Orleans Recreation Department	"369,250"	2010	135	3.7		
+Los Angeles Department of Recreation and Parks	"3,857,799"	2012      	"1,399"	3.6		
+Massachusetts Department of Conservation and Recreation (within Boston)	"636,479"	2013      	221	3.5		
+"Colorado Springs Parks, Recreation and Cultural Services"	"431,834"	2012      	149	3.5		
+Jacksonville Recreation and Community Services Department	"836,507"	2012      	288	3.4		
+Lubbock Parks and Recreation	"236,065"	2012      	81	3.4		
+Houston Parks and Recreation Department	"2,160,821"	2012      	727	3.4		
+Columbus Recreation and Parks Department	"809,798"	2012      	271	3.3		
+"Omaha Department of Parks, Recreation and Public Property"	"421,570"	2012      	140	3.3		
+New Orleans Department of Parks and Parkways	"369,250"	2012      	120	3.2		
+Memphis Division of Parks and Neighborhoods	"655,155"	2011      	206	3.1		
+"San Jose Department of Parks, Recreation and Neighborhood Services"	"982,765"	2013	306	3.1		
+Boston Parks and Recreation Department	"636,479"	2012      	191	3.0		
+Tulsa Park and Recreation Department	"393,987"	2013      	118	3.0		
+"Mesa Parks, Recreation and Commercial Facilities Department"	"452,084"	2013      	135	3.0		
+Oklahoma City Parks and Recreation Department	"599,199"	2013      	175	2.9		
+Mecklenburg County Park and Recreation	"969,031"	2012      	256	2.6		
+Buffalo Division of Parks and Recreation	"259,384"	2012      	61	2.4		
+Gilbert Parks and Recreation	"221,140"	2012      	52	2.4		
+"Milwaukee County Department of Parks, Recreation and Culture (within Milwaukee city)"	"598,916"	2012      	128	2.1		
+"Reno Parks, Recreation and Community Services Department"	"231,027"	2013      	48	2.1		
+"Las Vegas Department of Parks, Recreation and Neighborhood Services"	"596,424"	2012      	120	2.0		
+"Santa Ana Parks, Recreation and Community Services"	"330,920"	2013      	66	2.0		
+Jersey City Division of Parks and Forestry	"254,441"	2013      	49	1.9		
+Chula Vista Public Works Department -- Parks Section	"252,422"	2013      	37	1.5		
+Stockton Public Works Department -- Parks Division	"297,984"	2012      	39	1.3		
+"Essex County Department of Parks, Recreation and Cultural Affairs (within Newark)"	"277,727"	2012      	35	1.3		
+"San Bernardino Parks, Recreation & Community Services"	"213,295"	2010	24	1.1		
+"Fresno Parks, After School, Recreation and Community Services Department"	"505,882"	2013	50	1.0		
+Detroit Recreation Department	"701,475"	2013	45	0.6		
+Boise Parks and Recreation	"212,303"	2009	n.a.			
+Toledo Department of Public Service	"284,012"	2009	n.a.			
+Fremont Recreation Services Division	"221,986"	2010	n.a.			
+Hialeah Department of Recreation and Community Services	"231,941"	2010	n.a.			
+Honolulu Department of Parks and Recreation	"345,610"	2010	n.a.			
+Irving Parks and Recreation	"225,427"	2010	n.a.			
+Laredo Parks and Leisure Services Department	"244,731"	2010	n.a.			
+TOTAL			"35,049"			
+MEDIAN				5.3		
+						
+n.a. = not available						
